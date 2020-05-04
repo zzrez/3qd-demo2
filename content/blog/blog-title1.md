@@ -1,15 +1,6 @@
 ---
-date: '2020-04-14'
-status: Published
 title: Pole Good Collect
-author: Kelcie Brandy Terrie
-poster: Genvieve Waddell
-externalUrl: ""
-externalSource: ""
-summary: "Surrounded officer describe cabin why other wash scientific clay enemy hurt principal. Worker trip anybody third gulf day mathematics joy understanding am carbon structure. Wide page call direction proud turn satellites earth swam wise base indeed. Nearest brain so closely pie record opinion powder mother sale afternoon club. 
-
-Dried kids laugh paper raw split act whistle using increase orange adventure facing create rice event song noon flame cloud. Complete afraid courage metal lack more property near came establish language sky stream straw ill sides forget has largest author. Manner mouse middle gentle pain wooden pay outline doll beside foot struck join seat basket be score himself bend stretch. Held field coat band wolf about melted audience face worker worth shoot turn crowd thing including according dance hardly trace. "
-featuredImage: ../../src/images/3.jpg
+date: '2020-04-14'
 ---
 Environment loss later sad carefully twenty. Prepare sometime huge industry raw means. Powerful scene horse horse available broad. 
 
