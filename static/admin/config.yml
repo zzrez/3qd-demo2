@@ -14,3 +14,21 @@ collections:
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
+      - { name: "author", label: "Author", widget: "string", required: false }
+      - { name: "poster", label: "Poster", widget: "string", required: false }
+      - { name: "summary", label: "Summary", widget: "markdown", required: false }
+      - {
+        name: 'status',
+        label: 'Status',
+        widget: 'select',
+        options: ['Published', 'Featured', 'Draft'],
+        default: 'Published',
+        }
+      - { name: "externalSource", label: "Media Source", widget: "string", required: false }
+      - { name: "externalUrl", label: "Media URL", widget: "string", required: false }
+      - {
+          name: "featuredImage",
+          label: "Featured Image",
+          widget: "image",
+          required: false,
+        }
