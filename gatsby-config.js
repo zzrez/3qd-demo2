@@ -24,6 +24,13 @@ module.exports = {
         name: `assets`,
       },
     },
+    { //added to source images in this folder
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images`,
+        name: `images`,
+      },
+    },
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
