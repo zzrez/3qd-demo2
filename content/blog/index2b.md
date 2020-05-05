@@ -1,6 +1,10 @@
 ---
 title: My Second Post! (md)
 date: '2015-05-06T23:46:37.121Z'
+summary: >-
+  Did you know that despite its name, salted duck eggs tide friend. Suggest
+  fire rest ancient angry paint **sets stove thirty rate** water himself. Slight
+  vote combine zebra lovely mud image acres daughter just ran thus.
 ---
 
 This is a copy of My Second Post!, but md.

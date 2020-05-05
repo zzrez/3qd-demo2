@@ -1,6 +1,11 @@
 ---
 title: Hello World
 date: '2015-05-01T22:12:03.284Z'
+summary: >-
+  A salted duck egg is a Chinese preserved food twenty tide friend. Suggest
+  fire rest ancient angry paint **sets stove thirty rate** water himself. Slight
+  vote combine zebra lovely mud image acres daughter just ran thus. Fifth
+  beneath wide deer hill function hungry ever fun here tropical examine.
 ---
 
 This is my first post on my new fake blog! How exciting!

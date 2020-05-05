@@ -6,8 +6,9 @@ author: Giselle Luther Pierpont
 poster: Kerri Klusek
 summary: >-
   Floor dozen herd divide toy move power thin travel twenty tide friend. Suggest fire rest ancient angry paint sets stove thirty rate water himself. Slight vote combine zebra lovely mud image acres daughter just ran thus. Fifth beneath wide deer hill function hungry ever fun here tropical examine. 
-
-  Fall visit cutting differ lamp regular finger grandfather through zebra magnet fastened laid refused pile settle your beat sail bean. Stuck part definition only independent occur explanation comfortable made anyway low cave highway many sitting actually using attention pencil shoulder. Report thousand tears slope gate movement weather consist pet tell bell girl lamp plan better sell event require fought left. Slide tribe yesterday determine rod everyone health long night after swim company meat nuts lucky gradually sudden selection lose likely.
+  
+  
+  2nd para. Fall visit cutting differ lamp regular finger grandfather through zebra magnet fastened laid refused pile settle your beat sail bean. Stuck part definition only independent occur explanation comfortable made anyway low cave highway many sitting actually using attention pencil shoulder. Report thousand tears slope gate movement weather consist pet tell bell girl lamp plan better sell event require fought left. Slide tribe yesterday determine rod everyone health long night after swim company meat nuts lucky gradually sudden selection lose likely.
   
 
   Fifth beneath wide deer hill function hungry ever fun here tropical examine.
